@@ -1,0 +1,10 @@
+Necessary steps:
+    Execute o no terminal python o comando '$ pip3 install -r requirements.txt' no diretório raiz do projeto.
+
+Preferences:
+    Controle a velocidade de digitação alterando à variável TYPE_SPEED no arquivo 
+    functions.py dentro do diretório tools obs: partindo do diretório raiz.
+
+Parar a execução em qualquer momento:
+    Sempre que a messagem 'Successfully Loaded, lisa is running' for exibida no teminal você pode parar a excução usando a combinação de teclas 'ctrl + c'. 
+

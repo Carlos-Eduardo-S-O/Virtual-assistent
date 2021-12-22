@@ -1,0 +1,87 @@
+{
+    "name": "lisa",
+    "questions": [
+        "comopossoformar",
+        "comoposso",
+        "comoformar",
+        "comofeito",
+        "comopassar",
+        "comofunciona",
+        "comousar",
+        "comofazer",
+        "comocriar",
+        "comotraduzir",
+        "qualtradução",
+        "qualforma",
+        "qualformatraduzir",
+        "comocriar"
+    ],
+    "pasts":[
+        "passadosimples",
+        "simplepast"
+    ],
+    "forms": [
+        {
+            "name": "afirmativ",
+            "answers": [
+                {
+                    "answer": "Temos algumas maneiras de fazer a forma afirmativa, isso vai depender do verbo principal da frase.",
+                    "exemple": ""
+                },
+                {
+                    "answer": "Primeira forma: funciona para grande parte das frases, nela simplesmente adicionamos a particula 'ed' ao final do verbo principal da frase, lembrando o verbo tem de ser regularar.\nVeja o exemplo a seguir usando o verbo 'to work':\n",
+                    "exemple":"Presente simples: Eu trabalho muito.\nSimples present: I work a lot.\nPassado simples: Eu trabalhava muito.\nSimple past: I worked a lot.\n"
+                },
+                {
+                    "answer": "Segunda forma: ela é uma exeção à anterior, em que, frases na qual os verbos são regulares e terminem em 'e', nós devemos adicionar a particula 'd' ao final do verbo.\nVeja o exemplo a seguir com o verbo 'to like':\n",
+                    "exemple":"Presente simples: Eu gosto de café.\nSimple present: I like cofé.\nPassado simples: Eu gostava de café.\nSimple past: I liked coffee.\n"
+                },
+                {
+                    "answer": "Terceira forma: para verbos regulares terminados em consoante+vogal+consoante duplicas-se a última consoante e acrescenta 'ed' no final. Para esse exemplo usaremos o verbo 'to stop', veja a seguir:\n",
+                    "exemple":"Presente simples: Eu paro ali.\nSimple present: I stop there.\nPassado simples: Eu parei ali.\nSimple past: I stopped there.\n"
+                },{
+                    "answer": "Obs: se o verbo em questão atender aos quesitos ateriores, porém sua tônica não for na última silaba não dobra-se a consoante. veja a seguir o exemplo usando o verbo 'to Open' e to listen:\n",
+                    "exemple":"Presente simples: Eu abro a porta.\nSimple present: I open the door.\nPassado simples: Eu abri a porta.\nSimple past: I opened the door.\nPresente simples: O computador escuta  a porta 80.\nSimple present: The computer listens to port 80\nPassado simples: O computador escutou  a porta 80.\nSimple past: the computer listened to port 80.\n"
+                },
+                {
+                    "answer": "Quarta forma: Aos verbos regulares terminados em 'y' precedido de consoante, retira-se o 'y' e acrescenta-se o 'ied' no final.\nVeja o exemplo a seguir usando o verbo 'to study':",
+                    "exemple": "Presente simples: Eu estudo em uma escola não muito longe daqui.\nSimple present: I study at a school not far from here.\nPassado simples: Eu estudava em uma escola não muito longe daqui.\nSimple past: I studied at a school not far from here.\n"
+                },
+                {
+                    "answer": "Obs: aos verbos terminados em 'y' precedido de vogal, acrescenta-se somente o 'ed':",
+                    "exemple":"Presente simples: Ele fica aqui.\nSimple resent: He stays here.\nPassado simples: Ele ficou aqui.\nSimple past: He stayed here.\n"
+                },
+                {
+                    "answer": "Última forma, verbos irregulares:\nesses verbos não segue nenhuma das regra anteriores cada um deles possuem uma forma própria, então o que nos resta apenas é estuda-los um a um, para isso você pode consultar o link abaixo com os 60 verbos irregulares mais útilizados: \n",
+                    "exemple":"https://www.yazigi.com.br/noticias/ingles/60-verbos-irregulares-em-ingles-que-voce-precisa-saber\n"
+                }
+            ]
+        },
+        {   
+            "name": "negativ",
+            "answers": [
+                {
+                    "answer": "Temos algumas maneiras de fazer a forma negativa, veja a seguir como fazer.",
+                    "exemple": ""
+                },
+                {
+                    "answer": "Para colocar um frase na forma negativa do presente simples é muito fácil basta adicionar o verbo 'did' que nesse caso expecífico é um verbo auxiliar, como o not e o verbo principal.\nVeja o exemplo a seguir usando o verbo 'to work':\n",
+                    "exemple":"Presente simples: Ela trabalha muito.\nSimple present: She works a lot.\nPassado simples: Ela não trabalhou muito.\nSimple past: She did not work a lot.\n"
+                }, 
+                {
+                    "answer": "Obs, forma negativa contraida: é possivél contrair o 'did not' por 'didn't'.\nVeja o exemplo a seguir usando o verbo 'to work':\n",
+                    "exemple":"Presente simples: Ela trabalha muito.\nSimple present: She works a lot.\nPassado simples: Ela não trabalhou muito.\nSimple past: She didn't work a lot.\n"
+                }              
+            ]
+        },
+        {
+            "name": "interrogativ",
+            "answers": [
+                {
+                    "answer": "Na forma interrogativa do passado simples basta adicionar o verbo auxiliar 'did' seguido do sujeito, verbo principal e complemento, veja a seguir o exemplo com o verbo 'to like':",
+                    "exemple": "Presente simples: Ela gosta de boneca.\nSimple present: She likes doll.\nPassado simples: Ela gostava de bonecas?\nSimple past: Did she like doll?\n"
+                }
+            ] 
+        }
+    ]
+}
